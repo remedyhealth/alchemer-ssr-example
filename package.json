@@ -1,0 +1,19 @@
+{
+  "name": "alchemer-ssr-example",
+  "version": "1.0.0",
+  "description": "Creating a server-side render example page",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.4.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
